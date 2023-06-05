@@ -13,9 +13,9 @@
 ## Table of Contents
 | [About](https://github.com/meganlew/csc-648-sfsu#about)    |       
 |      :---:       |    
-| [Installation Guide](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#installation-guide)    |  
-| [Product Images](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#product-images)    | 
-| [Database MySQL Workbench ](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#database-mysql-workbench)    | 
+| [Installation Guide](https://github.com/meganlew/csc-648-sfsu#installation-guide)    |  
+| [Product Images](https://github.com/meganlew/csc-648-sfsu#product-images)    | 
+| [Database MySQL Workbench ](https://github.com/meganlew/csc-648-sfsu#database-mysql-workbench)    | 
 | [Full Documentation](https://github.com/meganlew/csc-648-sfsu/blob/main/Milestones/M5/CSC%20648-848%20Spring%202023%20Milestone%205%2C%20Team%2001.pdf)    | 
 
 
