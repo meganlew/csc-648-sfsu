@@ -11,7 +11,7 @@
 | Nathan Rennacker (Github Master) | nrennacker@mail.sfsu.edu |   nlrennacker    |
 
 ## Table of Contents
-| [About](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#about)    |       
+| [About](https://github.com/meganlew/csc-648-sfsu#about)    |       
 |      :---:       |    
 | [Installation Guide](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#installation-guide)    |  
 | [Product Images](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#product-images)    | 
