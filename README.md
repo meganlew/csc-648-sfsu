@@ -10,6 +10,15 @@
 | Jed Graves   (Backend Developer)    | jgraves4@mail.sfsu.edu   |   jgraves4      |
 | Nathan Rennacker (Github Master) | nrennacker@mail.sfsu.edu |   nlrennacker    |
 
+## Table of Contents
+| [About](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#about)    |       
+|      :---:       |    
+| [Installation Guide](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#installation-guide)    |  
+| [Product Images](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#product-images)    | 
+| [Database MySQL Workbench ](https://github.com/meganlew/csc-648-sfsu/edit/main/README.md#database-mysql-workbench)    | 
+| [Full Documentation](https://github.com/meganlew/csc-648-sfsu/blob/main/Milestones/M5/CSC%20648-848%20Spring%202023%20Milestone%205%2C%20Team%2001.pdf)    | 
+
+
 
 ## About 
 For our software engineering class project, our task was to create a food delivery service web application. Our product SFSU FoodFeast is unique from other food delivery services because we are catering to the sfsu community. As a team, we practiced full sofware development cycle for our app. We had practiced agile methology with scrum practices ( weekly stand up meetings ) , code reviews, user personas, use cases, usability testing, UI/UX (wireframes/ figma protyping), and QA testing. Our team worked on a [full documentation](https://github.com/meganlew/csc-648-sfsu/blob/main/Milestones/M5/CSC%20648-848%20Spring%202023%20Milestone%205%2C%20Team%2001.pdf) on this project with details on every step we have accompolished and challenges we faced. It can be viewed in this repository under the Milestones folder > Milestone 5. 
@@ -131,7 +140,7 @@ Saves user favorites.
 <img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/895e0f14-7268-4eda-a027-407ced977d6e" width="700" height="250">
 
 ### User 
-Store login info for user. 1 determines if user is admin, driver, or restuarant owner. O means user is not. 
+Store login info for user. 1 determines if user is admin, driver, or restuarant owner. 0 means user is not. 
 <img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/11808544-39f5-488e-bea5-89a57142a1e8" width="700" height="250">
 
 
