@@ -41,107 +41,110 @@ npm run dev
 
 ## Product Images
 ### Home Page
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/ec96cf62-04ef-4a46-b055-2b3397ed05f4" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/992b0ea4-d20d-4881-b5d6-1bea35a2afa4" width="600" height="350">
 
 ### Login Page
 
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/94c30941-4b1b-406c-8b9c-68c7ac047e23" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/98d5c260-3a41-4b93-ba28-d13405f2b648" width="600" height="350">
 
 
 ### Register
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/95b53439-8d4a-4cc1-9581-0afe53f62f7d" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/9a3435ec-2df0-4a7d-a036-0685212fd242" width="600" height="350">
 
 ### Restaurant Register
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/fdc52cd1-a905-4d15-b062-1b04ec3a399e" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/c43fd641-faae-4145-b4fc-6a1dafb815ea" width="600" height="350">
 
 ### Restaurant Register ( continued )
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/d286f979-14d7-4325-a565-739e48f588e2" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/081e72af-add6-433f-80fd-ab3f877fa9e6" width="600" height="350">
 
 ### Driver Registration
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/20f639a1-e619-4da3-8994-927fff99e52d" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/34f30ffc-289d-4548-a1d1-75859b09043a" width="600" height="350">
 
 ### Unregistered Driver
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/c7a40b15-a161-4df2-b1df-ac8ceda7042c" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/4cb5f4e3-2d03-400b-a51c-962cbd096a9e" width="600" height="350">
 
 ### Driver Dashboard
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/86547348-6ffa-40fd-b18c-539cb7ae4bfd" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/e99fc3ec-2485-4b8e-a440-1186597c7a29" width="600" height="350">
 
 ### Restaurant Dashboard
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/85a28a54-25ca-4597-a100-54d2023288b5" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/4d61a47b-5a92-40d7-9ae1-e57e05f4342d" width="600" height="350">
 
 ### Restaurant Dashboard (continued )
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/64204b3f-7c56-41d9-833d-730b443ad243" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/f36ec650-e011-45c3-850b-d7aac0b62bc2" width="600" height="350">
 
 ### Restaurant Orders
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/138ed2fc-f713-497a-abe0-cbc38b5e99ab" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/f4731dc9-8f9f-4b9c-8d5b-32dbef2d75cb" width="600" height="350">
 
 ### Menu Entry
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/8d8628ec-8a3f-4958-b66b-3cb9021c33e8" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/880b98d9-2e18-4726-8072-b163844273f7" width="600" height="350">
 
 ### Restaurant Page
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/a623a9b4-7197-44b0-b6c8-75a0370baa5c" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/af13045f-aa08-4331-b48c-b30bed29c78b" width="600" height="350">
 
 ### Empty Cart
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/9e09b41a-30ad-4467-9cbd-15a538131ec8" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/0a7cee4d-85a0-4e86-9b27-5444792a9996" width="600" height="350">
 
 ### Cart with Order
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/5895ded3-2ea4-4593-8f71-ac27a0832949" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/7c4583a9-07ae-45be-aae5-02590f5dd610" width="600" height="350">
 
 ### Checkout Page
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/4b1382f8-f8ec-4d4a-9068-96d03993c973" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/5675a44a-8cd6-4c40-bb98-1738fce2c2dc" width="600" height="350">
 
 ### Checkout Confirmation
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/6d32b97f-3ac7-4199-89c6-b6f18d501d1f" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/2baee52e-c387-4c6f-8536-308e7465763f" width="600" height="350">
 
 ### Search (all)
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/c24a7f8c-b33b-4d91-91e9-0f08afd14f47" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/610f66c8-5d24-46a7-9baf-c0b0e78e37fb" width="600" height="350">
 
 ### Search (cuisine)
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/5e462553-401e-4053-be32-bda9c63fae46" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/2a59684c-62c5-4b74-8165-04105e6c8680" width="600" height="350">
 
 ### Google Maps API
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/2696e8cd-e4e5-42ef-9079-3d49c62a0448" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/23319a1e-55d5-4e7f-8316-e6db6b66fdde" width="600" height="350">
 
 ### About Us
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/55cfb828-bdb5-4621-ac3d-3caba7ea2251" width="600" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/f926bae2-5d0d-4dd3-ab3d-1b4d3a86a6a0" width="600" height="350">
+
+
 
 ## Database mySQL workbench
 ### Tables
 Tables in our database. 
 
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/51e8fa01-b2b2-40f3-980e-38ca6fe23383" width="300" height="350">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/80a9824d-8d91-4764-9a41-537fd99fb3c8" width="300" height="350">
 
 ### Cuisines 
 Each Cuisine is assigned an id. The id is used to assign a restaurant to a cuisine. 
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/e7e35fdb-ed27-43a7-81db-8c203e7e4a83" width="700" height="250">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/6551aa90-3f2d-420c-8966-239e459e84db" width="700" height="250">
 
 ### Food Orders
 Restaurant_id assigns the order to the restaurant. If order_status is in progress it will show up under current orders in the restaurant manager dashboard or if order_status is ready for pickup it will show up under completed orders. Orders are populated on the driver page if order_accepted_by_driver is 0.
 
 
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/80bc111c-7bff-4818-9acc-6c4e5967f1f4" width="700" height="250">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/f1e097fd-cf9a-44d8-bb54-5d87ec539e95" width="700" height="250">
 
 ### Menu Items
 These are menu items used to populate the restaurant page. 
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/0dc579c3-2bab-4d51-b8e4-4cd51875a72e" width="700" height="250">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/ccda2490-15cd-494e-9eed-0e4afa1ca889" width="700" height="250">
 
 ### Order Itens
 Orders placed by customers are stored in the database.
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/d4d2f405-fb6c-49a2-8aa2-73e0e00aa8d2" width="700" height="250">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/72726d59-0aec-4fbb-a554-6a19adeb8c32" width="700" height="250">
 
 ### Restaurants
 The restuarants in the homepage and images are stored here. The address is used to populate the google maps api. New restaurants approved by admin will show up here. 
 Orders placed by customers are stored in the database.
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/f2592ba4-514c-4276-bffd-37f1beb5180b" width="700" height="250">
+
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/382f7172-9536-4d87-b910-6c6d2d937ed7" width="700" height="250">
 
 ### User Favorites
 Saves user favorites. 
 
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/895e0f14-7268-4eda-a027-407ced977d6e" width="700" height="250">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/d0644982-8827-43f7-ba20-e497a36333cc" width="700" height="250">
 
 ### User 
 Store login info for user. 1 determines if user is admin, driver, or restuarant owner. 0 means user is not. 
-<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/11808544-39f5-488e-bea5-89a57142a1e8" width="700" height="250">
+<img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/62c91bcd-ad1b-4678-88f5-aa803203666f" width="700" height="250">
 
 
 
