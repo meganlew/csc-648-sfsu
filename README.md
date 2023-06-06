@@ -39,6 +39,15 @@ npm run dev
 .env file with database info needs to be in server folder
 ```
 
+## Tech Stack
+```shell 
+Frontend: React
+Backend: Express, Node,js
+Database: mySQL (Workbench)
+Deployment: AWS Amazon Web Services ( EC2 Elastic Compute Cloud )
+IDE: Visual Studio Code
+```
+
 ## Product Images
 ### Home Page
 <img src="https://github.com/meganlew/csc-648-sfsu/assets/40639118/992b0ea4-d20d-4881-b5d6-1bea35a2afa4" width="600" height="350">
