@@ -21,22 +21,22 @@
 
 
 ## About 
-For our software engineering class project, our task was to create a food delivery service web application. Our product SFSU FoodFeast is unique from other food delivery services because we are catering to the sfsu community. As a team, we practiced full sofware development cycle for our app. We had practiced agile methology with scrum practices ( weekly stand up meetings ) , code reviews, user personas, use cases, usability testing, UI/UX (wireframes/ figma protyping), and QA testing. Our team worked on a [full documentation](https://github.com/meganlew/csc-648-sfsu/blob/main/Milestones/M5/CSC%20648-848%20Spring%202023%20Milestone%205%2C%20Team%2001.pdf) on this project with details on every step we have accompolished and challenges we faced. It can be viewed in this repository under the Milestones folder > Milestone 5. 
+For our software engineering class project, our task was to create a food delivery service web application. Our product SFSU FoodFeast is unique from other food delivery services because we are catering to the sfsu community. As a team, we practiced full software development cycle for our app. We had practiced agile methodology with scrum practices ( weekly stand-up meetings ) , code reviews, user personas, use cases, usability testing, UI/UX (wireframes/ figma prototyping), and QA testing. Our team worked on a [full documentation](https://github.com/meganlew/csc-648-sfsu/blob/main/Milestones/M5/CSC%20648-848%20Spring%202023%20Milestone%205%2C%20Team%2001.pdf) on this project with details on every step we have accomplished and challenges we faced. It can be viewed in this repository under the Milestones folder > Milestone 5. 
 
-Early Stages of Protyping I worked on in [Figma](https://www.figma.com/file/ztIeZcqOHaDeVbee9PbGMU/Untitled?type=design&node-id=0-1)
+Early Stages of Prototyping I worked on in [Figma](https://www.figma.com/file/ztIeZcqOHaDeVbee9PbGMU/Untitled?type=design&node-id=0-1)
 
 ## Installation Guide 
-For our development we used Visual Studio Code as IDE, Amazon Web Services (AWS) for the server, and database uses MYSQL/Workbench.
+For our development, we used Visual Studio Code as IDE, Amazon Web Services (AWS) for the server, and the database uses MYSQL/Workbench.
 Server URL: http://ec2-35-160-127-228.us-west-2.compute.amazonaws.com --- IP: 35.160.127.228
 ```shell 
-// open terminal and cd into application and then into client & server folder
+// open terminal and cd into the application and then into client & server folder
 // client folder
 npm install
 npm start
 // server folder 
 npm install
 npm run dev
-.env file with database info needs to be in server folder
+.env file with database info needs to be in the server folder
 ```
 
 ## Tech Stack
